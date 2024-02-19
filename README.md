@@ -44,6 +44,7 @@ Game won
 ## Links
 
 Github - [https://github.com/bijitregmi/tenzies](https://github.com/bijitregmi/tenzies)<br>
+Netlify - [https://tenzies-game-scrimba.netlify.app/](https://tenzies-game-scrimba.netlify.app/)
 
 ## Learning process
 
