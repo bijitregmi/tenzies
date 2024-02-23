@@ -4,7 +4,7 @@ Tenzies is an interactive web game made using ReactJS.
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to Tenzies.
+Use the package manager [npm](https://www.npmjs.com/) to install Tenzies.
 
 ```bash
 cd my-project
