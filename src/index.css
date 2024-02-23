@@ -10,7 +10,7 @@ body {
 }
 
 main {
-    height: 90vh;
+    height: 90dvh;
     width: 90vw;
     border-radius: 1em;
     background-color: #F5F5F5;
