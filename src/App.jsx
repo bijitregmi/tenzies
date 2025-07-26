@@ -82,7 +82,7 @@ export default function App() {
       {tenzies && <Confetti width={width} height={height} />}
       <header>
         <h1>Tenzies</h1>
-        <p>Click on a die to freeze it at its current value between rolls. Roll the dice untill they all are the same value. </p>
+        <p>Click on a die to freeze it at its current value between rolls. Roll the dice untill they are all the same value. </p>
       </header>
       <div className="dices">
           {diceElements}
